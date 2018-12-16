@@ -1,0 +1,21 @@
+--Few tools need to be installed for setting up the enviornment for Data Science 
+--python3.6
+--jupiter notebook
+--anaconda
+
+terminal
+-------------
+brew cash install anaconda
+
+--setting up the path in ./bash_profile
+append path till anaconda/bin 
+
+--
+python which version
+Python 3.6.3 |Anaconda, Inc.| (default, Oct  6 2017, 12:04:38) 
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+
+
+-- to launch jupiter notebook , we need to open jupiter navigator and launch
+
