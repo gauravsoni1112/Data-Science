@@ -1,0 +1,31 @@
+Given set find the mean ,median and mode
+
+1 4 8 3 6 9
+
+mean = (1+4+8+3+6+9)/6 = 31/6=6.1
+
+media = 1 3 4 6 8 9 = middle number is (4+6)/2 = 5
+
+mode = common among all 
+     = if no common ,hence no mode 
+     
+     if the above data set is 1 4 4 8 3 6 9
+      mode = 4
+      
+Range 
+  It is the difference between largest and the smallest value 
+        largest = 9 
+        smallest = 1
+         range = 8 
+ 
+ Mid Range = average of largest and smallest number = (9+1)/2 = 5
+ 
+ Mean Absolute deviation = (6.1-1)+(6.1-4)+(6.1-3)+(6.1-6)+(6.1-9)/6
+ 
+ Interquartile range (IQR) = The IQR describes the middle 50% of values when ordered from lowest to highest. To find the interquartile range (IQR), ​first find the median (middle value) of the lower and upper half of the data. These values are quartile 1 (Q1) and quartile 3 (Q3). The IQR is the difference between Q3 and Q1.
+   sort the number      
+    1 3 4 6 8 9
+   middle number os 4&6
+   median of 1+3/2 = 2 
+             8+9/2 =8.5
+    IQR = 6.5         
